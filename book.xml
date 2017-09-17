@@ -1,0 +1,910 @@
+<xml>
+    <books>
+        <book>
+            <id>52</id>
+            <title>Letters of Two Brides</title>
+            <description>
+                Letters of Two Brides is an epistolary novel. The two brides are Louise de Chaulieu (Madame Gaston) and Renée de Maucombe (Madame l'Estorade). The women became friends during their education at a convent and upon leaving began a life-long correspondence. For a 17 year period, they exchange letters describing their lives.<br /><br />Michelle Crandall reads Renee’s letters, and Kara Shallenberg reads Louise’s. Letters from the men in their lives are read by Peter Yearsley, David Barnes, Denny Sayers, and Sean McKinley.<p>
+            </description>
+            <url_text_source>http://www.gutenberg.org/etext/1941</url_text_source>
+            <language>English</language>
+            <copyright_year>1902</copyright_year>
+            <num_sections>57</num_sections>
+            <url_rss>http://librivox.org/rss/52</url_rss>
+            <url_zip_file>
+                http://www.archive.org/download/letters_brides_0709_librivox/letters_brides_0709_librivox_64kb_mp3.zip
+            </url_zip_file>
+            <url_project/>
+            <url_librivox>
+                http://librivox.org/letters-of-two-brides-by-honore-de-balzac/
+            </url_librivox>
+            <url_other/>
+            <totaltime>9:09:20</totaltime>
+            <totaltimesecs>32960</totaltimesecs>
+            <authors>
+                <author>
+                    <id>86</id>
+                    <first_name>Honoré de</first_name>
+                    <last_name>Balzac</last_name>
+                    <dob>1799</dob>
+                    <dod>1850</dod>
+                </author>
+            </authors>
+            <url_iarchive>
+                http://www.archive.org/details/letters_brides_0709_librivox
+            </url_iarchive>
+            <sections>
+                <section>
+                    <id>121136</id>
+                    <section_number>1</section_number>
+                    <title>Letter 1</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>1764</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121137</id>
+                    <section_number>2</section_number>
+                    <title>Letter 2</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>790</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121138</id>
+                    <section_number>3</section_number>
+                    <title>Letter 3</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>654</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121139</id>
+                    <section_number>4</section_number>
+                    <title>Letter 4</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>543</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121140</id>
+                    <section_number>5</section_number>
+                    <title>Letter 5</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>783</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121141</id>
+                    <section_number>6</section_number>
+                    <title>Letter 6</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>883</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>167</reader_id>
+                            <display_name>Peter Yearsley</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121142</id>
+                    <section_number>7</section_number>
+                    <title>Letter 7</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>949</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121143</id>
+                    <section_number>8</section_number>
+                    <title>Letter 8</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>471</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121144</id>
+                    <section_number>9</section_number>
+                    <title>Letter 9</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>230</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121145</id>
+                    <section_number>10</section_number>
+                    <title>Letter 10</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>392</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121146</id>
+                    <section_number>11</section_number>
+                    <title>Letter 11</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>62</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121147</id>
+                    <section_number>12</section_number>
+                    <title>Letter 12</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>1606</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121148</id>
+                    <section_number>13</section_number>
+                    <title>Letter 13</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>1256</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121149</id>
+                    <section_number>14</section_number>
+                    <title>Letter 14</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>234</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>26</reader_id>
+                            <display_name>Denny Sayers (d. 2015)</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121150</id>
+                    <section_number>15</section_number>
+                    <title>Letter 15</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>1255</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121151</id>
+                    <section_number>16</section_number>
+                    <title>Letter 16</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>258</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121152</id>
+                    <section_number>17</section_number>
+                    <title>Letter 17</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>265</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121153</id>
+                    <section_number>18</section_number>
+                    <title>Letter 18</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>508</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121154</id>
+                    <section_number>19</section_number>
+                    <title>Letter 19</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>778</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121155</id>
+                    <section_number>20</section_number>
+                    <title>Letter 20</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>387</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121156</id>
+                    <section_number>21</section_number>
+                    <title>Letter 21</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>786</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121157</id>
+                    <section_number>22</section_number>
+                    <title>Letter 22</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>463</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121158</id>
+                    <section_number>23</section_number>
+                    <title>Letter 23</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>535</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>167</reader_id>
+                            <display_name>Peter Yearsley</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121159</id>
+                    <section_number>24</section_number>
+                    <title>Letter 24</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>1010</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121160</id>
+                    <section_number>25</section_number>
+                    <title>Letter 25</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>290</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121161</id>
+                    <section_number>26</section_number>
+                    <title>Letter 26</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>699</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121162</id>
+                    <section_number>27</section_number>
+                    <title>Letter 27</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>761</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121163</id>
+                    <section_number>28</section_number>
+                    <title>Letter 28</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>660</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121164</id>
+                    <section_number>29</section_number>
+                    <title>Letter 29</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>237</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>27</reader_id>
+                            <display_name>Sean McKinley</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121165</id>
+                    <section_number>30</section_number>
+                    <title>Letter 30</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>324</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121166</id>
+                    <section_number>31</section_number>
+                    <title>Letter 31</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>901</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121167</id>
+                    <section_number>32</section_number>
+                    <title>Letter 32</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>500</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121168</id>
+                    <section_number>33</section_number>
+                    <title>Letter 33</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>138</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121169</id>
+                    <section_number>34</section_number>
+                    <title>Letter 34</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>38</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121170</id>
+                    <section_number>35</section_number>
+                    <title>Letter 35</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>354</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121171</id>
+                    <section_number>36</section_number>
+                    <title>Letter 36</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>731</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121172</id>
+                    <section_number>37</section_number>
+                    <title>Letter 37</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>132</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121173</id>
+                    <section_number>38</section_number>
+                    <title>Letter 38</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>112</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121174</id>
+                    <section_number>39</section_number>
+                    <title>Letter 39</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>248</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121175</id>
+                    <section_number>40</section_number>
+                    <title>Letter 40</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>640</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121176</id>
+                    <section_number>41</section_number>
+                    <title>Letter 41</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>286</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121177</id>
+                    <section_number>42</section_number>
+                    <title>Letter 42</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>121</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121178</id>
+                    <section_number>43</section_number>
+                    <title>Letter 43</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>202</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121179</id>
+                    <section_number>44</section_number>
+                    <title>Letter 44</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>166</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121180</id>
+                    <section_number>45</section_number>
+                    <title>Letter 45</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>941</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121181</id>
+                    <section_number>46</section_number>
+                    <title>Letter 46</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>508</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121182</id>
+                    <section_number>47</section_number>
+                    <title>Letter 47</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>99</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121183</id>
+                    <section_number>48</section_number>
+                    <title>Letter 48</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>1419</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121184</id>
+                    <section_number>49</section_number>
+                    <title>Letter 49</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>410</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>94</reader_id>
+                            <display_name>David Barnes</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121185</id>
+                    <section_number>50</section_number>
+                    <title>Letter 50</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>217</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121186</id>
+                    <section_number>51</section_number>
+                    <title>Letter 51</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>689</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121187</id>
+                    <section_number>52</section_number>
+                    <title>Letter 52</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>1105</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121188</id>
+                    <section_number>53</section_number>
+                    <title>Letter 53</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>447</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121189</id>
+                    <section_number>54</section_number>
+                    <title>Letter 54</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>1534</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121190</id>
+                    <section_number>55</section_number>
+                    <title>Letter 55</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>361</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121191</id>
+                    <section_number>56</section_number>
+                    <title>Letter 56</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>89</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>19</reader_id>
+                            <display_name>Kara Shallenberg</display_name>
+                        </reader>
+                    </readers>
+                </section>
+                <section>
+                    <id>121192</id>
+                    <section_number>57</section_number>
+                    <title>Letter 57</title>
+                    <listen_url/>
+                    <language>English</language>
+                    <playtime>739</playtime>
+                    <file_name/>
+                    <readers>
+                        <reader>
+                            <reader_id>22</reader_id>
+                            <display_name>Michelle Crandall</display_name>
+                        </reader>
+                    </readers>
+                </section>
+            </sections>
+            <genres>
+                <genre>
+                    <id>8</id>
+                    <name>Epistolary Fiction</name>
+                </genre>
+            </genres>
+            <translators>
+                <translator>
+                    <id>9787</id>
+                    <first_name>R.S.</first_name>
+                    <last_name>Scott</last_name>
+                    <dob/>
+                    <dod/>
+                </translator>
+            </translators>
+        </book>
+    </books>
+</xml>
